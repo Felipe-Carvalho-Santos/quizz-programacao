@@ -1,0 +1,15 @@
+@media(max-width: 450px) {
+    
+    #quizz-container {
+        border: none;
+        width: 100%;
+    }
+
+    #answers-box button {
+        width: 90%;
+    }
+
+    #score-container {
+        width: 80%;
+    }
+}
